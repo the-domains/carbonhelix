@@ -6,9 +6,9 @@ color:
   saturation: 0.5197072036098689
   rhythmicContrast: 0.257964204531163
   brandColors:
-    - '#CCCDD2'
-    - '#000008'
-    - '#404D5D'
-    - '#5C6B83'
-    - '#8190A6'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: CarbonHelix
